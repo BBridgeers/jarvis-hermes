@@ -1,0 +1,16 @@
+# Venvs, caches, generated artifacts
+.venv/
+__pycache__/
+*.pyc
+
+# Audio (reference clips are personal; generated audio is disposable)
+*.wav
+*.mp3
+*.flac
+*.ogg
+clips/
+separated/
+sweep/
+
+# macOS
+.DS_Store
